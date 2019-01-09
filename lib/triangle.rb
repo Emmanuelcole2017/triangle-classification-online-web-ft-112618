@@ -9,4 +9,5 @@ class Triangle
   end
   
   def self.kind()
+    if(@side1 == @side2 && @side2 == @side3 )
 end
